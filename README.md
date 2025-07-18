@@ -82,7 +82,7 @@ This project is ideal for beginners looking to:
 ## 🙏 Acknowledgements
 
 Big thanks to **Shadow Fox** for the internship opportunity and mentoring support.  
-This dashboard is developed as **Task 1** of the **CodSoft Data Science Internship**.
+This dashboard is developed as **Task 2** of the **CodSoft Data Science Internship**.
 
 ---
 
