@@ -66,7 +66,7 @@ This project is ideal for beginners looking to:
 🎓 Data Science Intern at Shadow Fox  
 📍 India  
 📬 riteshpaithankar00@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/ritesh-paithankar-4b43a828a) 
+🔗 [LinkedIn] www.linkedin.com/in/ritesh-paithankar-4b43a828a
 
 ---
 
