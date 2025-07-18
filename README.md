@@ -1,74 +1,85 @@
 # SHADOWFOX-TASKS-INTERMEDIATE-
 🚀 Interactive Pollution Data Dashboard 📊 This project visualizes air pollution trends using real-time datasets. It analyzes daily pollutant levels (PM2.5, PM10) and generates clean, exportable graphs for reports or awareness. Built using Python, Pandas, Matplotlib, and Seaborn in Jupyter.
-# 🌫️ Delhi Air Quality Dashboard 📊 | CodSoft Internship - Data Science Task 1
+# 🌍 Interactive Pollution Data Dashboard
 
-> 🧠 **Beginner Project using Python, Pandas, Matplotlib, and Seaborn**
->
-> ✅ Built with Jupyter Notebook | 🎯 Visual + Interactive | 🧪 Pollution Trend Analysis
+This project visualizes air pollution trends using real-time datasets. Built in **Python with Jupyter Notebook**, it calculates and displays daily averages of key pollutants like PM2.5 and PM10. It allows users to analyze trends interactively and **exports graphs** for LinkedIn, GitHub reports, or public awareness.
 
 ---
 
-## 📌 Project Overview
+## 📌 Features
 
-This project analyzes and visualizes **Delhi’s Air Quality Index (AQI)** data using various Python libraries. It provides **daily, seasonal, and pollutant-specific insights**, helping raise awareness and explore pollution trends in the capital city of India.
-
-The project is created as part of **CodSoft’s Data Science Internship (Level 1 - Task 1)** and includes:
-
-- 🔎 Data cleaning and preprocessing
-- 📈 Time-series visualizations of pollutants
-- 📆 Seasonal pollution trends
-- 🧭 Interactive dashboard (Jupyter)
-- 🖼️ Exported plots for reports and portfolio
+- 📅 Daily pollutant level analysis (PM2.5, PM10)
+- 📈 Interactive dropdown-based graphing
+- 🧠 Time-series grouping and aggregation
+- 📤 Export graphs as `.png` images
+- 🌐 Clean, beginner-friendly code in Jupyter
+- ❄️ Optional seasonal data insights
 
 ---
 
-## 📂 Dataset Used
+## ⚙️ Tech Stack
 
-- **File**: `delhiaqi.csv`
-- **Source**: Provided in the internship task
-- **Columns**: `co`, `no`, `no2`, `o3`, `so2`, `pm2_5`, `pm10`, `nh3`, `date`, etc.
-- **Time Range**: Hourly readings over a span of months
-
----
-
-## 💻 Technologies Used
-
-| Tool/Library      | Purpose                         |
-|-------------------|---------------------------------|
-| `Python`          | Core programming language       |
-| `Pandas`          | Data analysis and wrangling     |
-| `Matplotlib`      | Data visualization (static)     |
-| `Seaborn`         | Enhanced graph aesthetics       |
-| `Jupyter Notebook`| Interactive dashboard (Option C)|
-| `Anaconda`        | Environment management          |
+| Tool          | Purpose                        |
+|---------------|--------------------------------|
+| `Python`      | Core programming language      |
+| `Pandas`      | Data cleaning & aggregation    |
+| `Matplotlib`  | Base plotting                  |
+| `Seaborn`     | Enhanced visuals               |
+| `Jupyter`     | Interactive dashboard notebook |
 
 ---
 
-## 📊 Key Features
+## 📊 Sample Output
 
-- 🕒 **Daily Averages**: Time-series plots of PM2.5, NO₂, CO, and more
-- ❄️ **Seasonal Insights**: See how pollution varies across seasons (Winter, Summer, etc.)
-- 🧩 **Interactive Dropdown**: Select a pollutant and watch the graph update live!
-- 📤 **Export as PNG**: Graphs are saved for easy use on LinkedIn or reports
-- 📌 **Clean, beginner-friendly code with comments**
+Below is a sample plot generated and exported:
 
----
+![PM2.5 Trend](./pm2_5_trend.png)
 
-## 📸 Sample Visuals
-
-| Daily Trend | Seasonal Average |
-|-------------|------------------|
-| ![pm2_5](pm2_5_trend.png) | *(Add if available)* |
+> More pollutant plots are saved as `.png` automatically in the root folder.
 
 ---
 
-## 🔧 How to Run
+## 🚀 How to Use
 
-> Make sure Python, Jupyter, and dependencies are installed (recommended: Anaconda)
+1. Clone or download this repository.
+2. Open `Pollution_Dashboard.ipynb` in Jupyter Notebook.
+3. Run all cells in order.
+4. Use dropdown to select pollutants like `pm2_5`, `pm10`, etc.
+5. Graphs will be displayed and also saved automatically as images.
 
-```bash
-1. Clone this repo or download the notebook.
-2. Place `delhiaqi.csv` in the same folder.
-3. Open the `.ipynb` file using Jupyter Notebook.
-4. Run the notebook cell-by-cell.
-5. Select pollutant from dropdown to see interactive graphs!
+---
+
+## 🎯 Learning Outcomes
+
+This project is ideal for beginners looking to:
+- Practice real-world data cleaning
+- Work with datetime and time-series data
+- Understand environmental data patterns
+- Build an interactive data science dashboard
+- Export professional graphs for GitHub/LinkedIn
+
+---
+
+## 👤 Author
+
+**Ritesh Paithankar**  
+🎓 Data Science Intern at Shadow Fox  
+📍 India  
+📬 ritesh@example.com *(Replace with your email)*  
+🔗 [LinkedIn](https://linkedin.com/in/your-profile) *(optional)*
+
+---
+
+## 🙏 Acknowledgements
+
+Big thanks to **Shadow Fox** for the internship opportunity and mentoring support.  
+This dashboard is developed as **Task 1** of the **CodSoft Data Science Internship**.
+
+---
+
+## 📄 License
+
+This project is released under the [MIT License](LICENSE).
+
+---
+
