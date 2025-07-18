@@ -32,8 +32,17 @@ This project visualizes air pollution trends using real-time datasets. Built in 
 ## 📊 Sample Output
 
 Below is a sample plot generated and exported:
+<img width="1103" height="389" alt="Screenshot 2025-07-18 102733" src="https://github.com/user-attachments/assets/c62daf2b-bed7-40e3-b352-33e45efcb902" />
+<img width="920" height="460" alt="Screenshot 2025-07-18 102719" src="https://github.com/user-attachments/assets/507edb07-c013-4a91-88c2-18ba3da3ea97" />
+<img width="896" height="456" alt="Screenshot 2025-07-18 102705" src="https://github.com/user-attachments/assets/5dfa443d-fe9d-454f-bab5-4750cecce1e0" />
+<img width="887" height="523" alt="Screenshot 2025-07-18 102651" src="https://github.com/user-attachments/assets/b8828804-a799-49c2-89b3-66221711acab" />
+<img width="1145" height="550" alt="Screenshot 2025-07-18 102629" src="https://github.com/user-attachments/assets/496433fa-7a4f-4c10-a3a4-bf2c332bd1a0" />
+<img width="1154" height="473" alt="Screenshot 2025-07-18 102615" src="https://github.com/user-attachments/assets/561d21e8-ce60-4bd5-8623-38a89f482235" />
+<img width="698" height="485" alt="Screenshot 2025-07-18 102557" src="https://github.com/user-attachments/assets/de6df8bb-4dcf-4f69-b4dc-e6cc0ca41047" />
+<img width="325" height="176" alt="Screenshot 2025-07-18 102544" src="https://github.com/user-attachments/assets/13e33273-e60f-4e89-874c-ca3c5e6fc3b4" />
+<img width="602" height="460" alt="Screenshot 2025-07-18 102533" src="https://github.com/user-attachments/assets/3941f09c-5a80-4399-9f2e-54f4a4ad3d12" />
 
-![PM2.5 Trend](./pm2_5_trend.png)
+
 
 > More pollutant plots are saved as `.png` automatically in the root folder.
 
